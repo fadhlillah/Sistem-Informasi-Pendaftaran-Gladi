@@ -1,4 +1,4 @@
-package tubes;
+package Tubes_Sistem_Informasi_Gladi;
 
 public class Pembimbing extends Orang{
     private String nip;
